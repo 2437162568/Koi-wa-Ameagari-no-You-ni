@@ -1,5 +1,5 @@
 # Koi wa Ameagari no You ni
-![poster](https://github.com/Nekomoekissaten/Koi-wa-Ameagari-no-You-ni/raw/master/poster.jpg)
+![poster](https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni/raw/master/poster.jpg)
 
 
 Akira Tachibana is a soft-spoken high school student who used to be a part of the track and field club but, due to an injury, she is no longer able to run as fast as she once could. Working part-time at a family restaurant as a recourse, she finds herself inexplicably falling in love with her manager, a divorced 45-year-old man with a young son.
